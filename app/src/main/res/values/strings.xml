@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyAPP</string>
+    <string name="click">Click</string>
+    <string name="get_toast">Get Toast</string>
+    <string name="toggle">Switch</string>
+</resources>
